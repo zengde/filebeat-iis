@@ -1,0 +1,4 @@
+dashboards:
+- id: Filebeat-IIS-Dashboard
+  file: Filebeat-iis.json
+
